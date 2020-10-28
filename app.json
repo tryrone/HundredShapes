@@ -1,0 +1,12 @@
+{
+  "name": "hundredShapes",
+  "displayName": "hundredShapes",
+  "expo": {
+    "name": "hundredShapes",
+    "slug": "hundredShapes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
